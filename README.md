@@ -6,7 +6,7 @@ PyNerds whatsapp group official site
 - Python 3.7
 - Hosted at Heroku
 
-# Hosted
+# See you at
 
 https://pynerds.club
 
