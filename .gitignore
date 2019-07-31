@@ -6,3 +6,4 @@
 .vEnv
 *pyc
 venv/
+.env
