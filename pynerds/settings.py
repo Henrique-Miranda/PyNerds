@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', cast=bool)
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pynerds.club', 'pynerds.com.br']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pynerds.club', 'pynerds.com.br', 'pynerds-site.herokuapp.com']
 
 
 # Application definition
